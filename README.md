@@ -1,2 +1,1 @@
-# operating-system
-用于复习记录
+# 杂货店 用于复习记录
